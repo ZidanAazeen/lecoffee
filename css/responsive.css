@@ -27,10 +27,11 @@
         padding: 40px 0;
     }
     .ordrer-details h4 {
-        font-size: 14px;
+        font-size: 12px;
     }
     .ordrer-details h4::after {
-        left: 20%;
+        width: 60px;
+        left: 19%;
     }
     .ordrer-details p {
         font-size: 10px;
@@ -43,10 +44,10 @@
         padding-top: 5px;
     }
     .introduction-left h4 {
-        font-size: 10px;
+        font-size: 8px;
     }
     .introduction-left p {
-        font-size: 6px;
+        font-size: 5px;
     }
     .introduction-left .introduction-2nd-p {
         padding-top: 0px;
