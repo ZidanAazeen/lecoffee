@@ -237,6 +237,13 @@ html {
 
 /* location part start */
 
+#mymap-display img {
+    max-width: none!important;
+    background: none!important;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
 .location-text {
     padding: 75px;
 }
